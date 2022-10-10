@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Segurança virtual</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>FESTA VIP</h1>
+    <section id="nome">
+        <h1>Bem vindo a festa, senhor(a):</h1>
+        <input type="text" name="camponome" id="campo-nome" placeholder="Digite o seu nome"> 
+    </section>
+    <section id="quem-convidou">
+        <h1>Quem te convidou para esta festa?</h1>
+        <input type="text" name="quemconvidou" id="convidou" placeholder="Quem te convidou?">
+        <input type="button" value="Verificar se posso entrar" onclick="testeFuncao()">
+    </section>
+    <section id="permitido-entrar">
+        <h1>Você está permitido entrar?</h1>
+        <p id="resultado">Pesquisando...</p>
+    </section>
+    <script src="script.js"></script>
+</body>
+</html>
