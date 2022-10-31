@@ -38,3 +38,6 @@ https://gustavoguanabara.github.io/javascript/exercicios/
 Exercícios JS GitHub
 https://github.com/gabrieldarezzo/helpjs-ravi
 
+Exerícios JS Fernando Leonid
+https://www.youtube.com/playlist?list=PLDgemkIT111AzoS1rB61sgMJbsEA4pyD2
+
