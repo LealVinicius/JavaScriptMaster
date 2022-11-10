@@ -9,8 +9,11 @@ Tópicos estudados de Javascript:
 [ X ] Array
 [ X ] Laços de repetição
 [ X ] Funções
-[ ] Manipulação de Dados
-[ ] Operadores
+[ x ] Manipulação de Dados
+[ x ] Manipulação de DOM
+[ x ] Laços de repetição
+[ x ] Estruturas condicionais
+[ x ] Operadores
 [ ] Typescript
 
 
