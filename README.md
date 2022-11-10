@@ -20,6 +20,9 @@ Cursos realizados:
 Curso Javascript Completo 2020 [Iniciantes] + 14 Mini-Projetos - Jonathan Dev aprender
 https://www.youtube.com/watch?v=i6Oi-YtXnAU
 
+Realizado exercícios de JavaScript seguindo a lista abaixo do professor Gustavo Guanabara
+https://gustavoguanabara.github.io/javascript/exercicios/
+
 
 Cursos em andamento [2022]:
 -------------------------------------------------------------------
@@ -31,9 +34,6 @@ Projetos/Exercícios a realizar [2022]:
 -------------------------------------------------------------------
 FreeCodeCamp
 https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#functional-programming
-
-Exercícios Gustavo Guanabara 
-https://gustavoguanabara.github.io/javascript/exercicios/
 
 Exercícios JS GitHub
 https://github.com/gabrieldarezzo/helpjs-ravi
